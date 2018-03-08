@@ -36,18 +36,28 @@ FOR GROUND VEHICLE
  
  
     Type - ground
-    INITIAL_LOCATION
+    CURRENT_LOCATION
     DIRECTION - N
     [0, 0]
+
+    RUNNING_COMMAND :
+    RFFFFLLFFFFRFFFF
+
+    Type - ground
     CURRENT_LOCATION
     DIRECTION - N
     [0, 4]
-    ------------------
+    ----------------------------------
     Type - air
-    INITIAL_LOCATION
+    CURRENT_LOCATION
     DIRECTION - N
     [0, 0, 0]
+
+    RUNNING_COMMAND :
+    URFFFLLLUUUDDD
+
+    Type - air
     CURRENT_LOCATION
     DIRECTION - S
     [3, 0, 10]
-    ------------------
+    ----------------------------------
